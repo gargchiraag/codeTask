@@ -1,3 +1,10 @@
+// Write a Javascript program to display the status (I.e. display book name, author name
+//     & reading status) of books.Task is to display the following:
+//     If the book is unread:
+//     You still need to read '<book_name>' by <author_name>.
+//     If the book is read:
+//     Already read '<book_name>' by <author_name>
+
 var library = [
     {
         title: 'Bill Gates',

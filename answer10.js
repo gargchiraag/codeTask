@@ -1,3 +1,7 @@
+// Write a program to interchange the values of two arrays.
+// Program should accept an array from the user, swap the values of two arrays and display it
+// on the console
+
 var array1=[];
 var array2=[];
 for (let i=0;i<5;i++){

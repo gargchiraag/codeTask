@@ -1,3 +1,6 @@
+// Write a program to sort an array in descending order
+// Program should accept and array, sort the array values in descending order and display it
+
 var size = parseInt(prompt("Enter size of array"));
 var array = [];
 for (let i = 0; i < size; i++) {

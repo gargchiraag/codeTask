@@ -1,3 +1,6 @@
+// Write a program to add to two dimensional arrays
+// Program should accept two 2D arrays and display its sum
+
 var array1 = [];
 var array2 = [];
 var array3 = [];

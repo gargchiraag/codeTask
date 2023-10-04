@@ -1,3 +1,7 @@
+// Write a program to check whether a given number is prime or not
+// Program should accept an input from the user and display whether the number is prime or
+// not
+
 var num = parseInt(prompt("Enter the number to check Prime or Not: "));
 var check = 1;
 

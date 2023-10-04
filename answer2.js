@@ -1,3 +1,5 @@
+// Accept two inputs from the user and output their sum.
+
 var num1=parseInt (prompt("Please enter 1st number of your choice: "));
 var num2=parseInt (prompt("Please enter 2nd number of your choice: "));
 var sum=num1+num2;

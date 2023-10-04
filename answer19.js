@@ -1,3 +1,7 @@
+// Write a program to find out the income tax amount of a person.
+// Program should accept annual income of a person
+// Output the amount of tax he has to pay
+
 function annualIncomeCalculate(income) {
     let taxPay = 0;
     if (income <= 250000) {

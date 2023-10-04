@@ -1,3 +1,5 @@
+// Using the ‘switch case’ write a program to accept an input number from the user and
+// output the day
 var day = parseInt(prompt("Please enter day number: "));
 console.log("Day " + day + " in the week is:");
 

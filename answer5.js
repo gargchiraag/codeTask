@@ -1,3 +1,6 @@
+// Write a program to show the grade obtained by a student after he/she enters their total
+// mark percentage.
+
 for (let i=0;i<6;i++){
     var marks=parseInt(prompt ("Please enter marks obtained: "));
     if(marks>=90){

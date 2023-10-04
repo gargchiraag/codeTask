@@ -1,3 +1,6 @@
+// Write a menu driven program to do the basic mathematical operations such as
+// addition, subtraction, multiplication and division
+
 class Calculator {
     constructor(num1, num2) {
         this.num1 = parseInt(num1);

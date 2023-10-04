@@ -1,3 +1,9 @@
+// Write a menu driven program to calculate the area of a given object.
+// Program should contain two classes
+// Class 1: MyClass
+// Class 2: Area
+// Class MyClass should inherit class Area
+
 class Area {
     circle(radius) {
         return Math.PI * radius * radius;

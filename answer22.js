@@ -1,3 +1,6 @@
+// Write a program to add the values of two 2D arrays
+// Program should contains 3 functions including the main function
+
 function getArray() {
     var size = parseInt(prompt("Enter size of array: "));
     var array = [];

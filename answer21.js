@@ -1,3 +1,9 @@
+// Write a program to multiply the adjacent values of an array and store it in an another
+// array
+// Program should accept an array
+// Multiply the adjacent values
+// Store the result into another array
+
 var size = parseInt(prompt("Enter Array limit: "));
 var array = [];
 var result = [];
